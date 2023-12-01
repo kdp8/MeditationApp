@@ -1,138 +1,139 @@
 const list = [
   {
     title:
-      'Positive Energy Chakra Meditation 10 Minute Guided Activation & Alignment',
-    url: '/videos/Positive Energy Chakra Meditation 10 Minute Guided Activation & Alignment.mp4',
+      '1. Positive Energy Chakra Meditation',
+    url: '/audios/Positive Energy Chakra Meditation 10 Minute Guided Activation & Alignment.mp3',
   },
   {
     title:
-      'This Powerful 6-phase Morning Meditation has Everything You Could Want in a Guided Meditation',
-    url: '/videos/This Powerful 6-phase Morning Meditation has Everything You Could Want in a Guided Meditation.mp4',
-  },
-  {
-    title: 'Become Amazing at Meditation ~ A Guided Meditation for Beginners',
-    url: '/videos/Become Amazing at Meditation ~ A Guided Meditation for Beginners.mp4',
+      '2. 6-phase Morning Meditation',
+    url: '/audios/This Powerful 6-phase Morning Meditation has Everything You Could Want in a Guided Meditation.mp3',
   },
   {
     title:
-      'Increase your Vibrational Frequency With Positive Energy Guided Meditation',
-    url: '/videos/Increase your Vibrational Frequency With Positive Energy Guided Meditation.mp4',
-  },
-  {
-    title: 'The Perfect Mindfulness Meditation in only 10 Minutes',
-    url: '/videos/The Perfect Mindfulness Meditation in only 10 Minutes.mp4',
+      '3. Energizing Morning',
+    url: '/audios/Its a Good Morning Meditation Guided & Energise with Positive Energy Love & Light.mp3',
   },
   {
     title:
-      "It's a Good Morning Meditation Guided & Energise with Positive Energy Love & Light",
-    url: "/videos/It's a Good Morning Meditation Guided & Energise with Positive Energy Love & Light.mp4",
+      '4. Increase your Vibrational Frequency',
+    url: '/audios/Increase your Vibrational Frequency With Positive Energy Guided Meditation.mp3',
   },
   {
-    title: 'Morning Meditation for Health Wealth & Happiness',
-    url: '/videos/Morning Meditation for Health Wealth & Happiness.mp4',
-  },
-  {
-    title:
-      'This Morning Gratitude Meditation will leave you full of Joy & Happiness',
-    url: '/videos/This Morning Gratitude Meditation will leave you full of Joy & Happiness.mp4',
-  },
-  {
-    title: 'A Powerful Morning Meditation to Start Your Day',
-    url: '/videos/A Powerful Morning Meditation to Start Your Day.mp4',
-  },
-  {
-    title: 'Feel in Balance Using this 10 Minute Chakra Guided Meditation',
-    url: '/videos/Feel in Balance Using this 10 Minute Chakra Guided Meditation.mp4',
+    title: '5. Mindfulness Meditation',
+    url: '/audios/The Perfect Mindfulness Meditation in only 10 Minutes.mp3',
   },
   {
     title:
-      'Can you feel the powerful Self Healing Energy Within_  Try this 10 minute Guided Meditation.',
-    url: '/videos/Can you feel the powerful Self Healing Energy Within_  Try this 10 minute Guided Meditation..mp4',
+      '6. Get Through Difficult Situations',
+    url: '/audios/A-Guided-Meditation-for-Getting-Through-Difficult-Situations.mp3',
+  },
+  {
+    title: '7. Meditation for Health Wealth & Happiness',
+    url: '/audios/Morning Meditation for Health Wealth & Happiness.mp3',
   },
   {
     title:
-      'Feeling Fully Present in The Moment a 10 Minute Mindfulness Guided Meditation',
-    url: '/videos/Feeling Fully Present in The Moment a 10 Minute Mindfulness Guided Meditation.mp4',
+      '8. Meditation for Joy & Happiness',
+    url: '/audios/This Morning Gratitude Meditation will leave you full of Joy & Happiness.mp3',
+  },
+  {
+    title: '9. Start Your Day',
+    url: '/audios/A-Powerful-Morning-Meditation-to-Start-Your-Day.mp3',
+  },
+  {
+    title: '10. Feel in Balance',
+    url: '/audios/A-Guided-Meditation-for-Getting-Through-Difficult-Situations.mp3',
   },
   {
     title:
-      'Feel Inspired & Alive with This Morning Motivation Guided Meditation',
-    url: '/videos/Feel Inspired & Alive with This Morning Motivation Guided Meditation.mp4',
+      '11. Feel the Self Healing Energy',
+    url: '/audios/Can you feel the powerful Self Healing Energy Within_ Try this 10 minute Guided Meditation..mp3',
   },
   {
     title:
-      'Morning Mindfulness Meditation The Perfect Way to Start Your Day...',
-    url: '/videos/Morning Mindfulness Meditation The Perfect Way to Start Your Day....mp4',
+      '12. Feel Fully Present',
+    url: '/audios/Feeling Fully Present in The Moment a 10 Minute Mindfulness Guided Meditation.mp3',
   },
   {
     title:
-      'Can You Feel The Difference After Using this 10 Minute Mindfulness Guided Meditation',
-    url: '/videos/Can You Feel The Difference After Using this 10 Minute Mindfulness Guided Meditation.mp4',
+      '13. Feel Inspired & Alive',
+    url: '/audios/Feel Inspired & Alive with This Morning Motivation Guided Meditation.mp3',
   },
   {
     title:
-      'Productive Morning Guided Meditation ~ Become Focused and Create the Perfect Day',
-    url: '/videos/Productive Morning Guided Meditation ~ Become Focused and Create the Perfect Day.mp4',
+      '14. The Perfect Way to Start Your Day',
+    url: '/audios/Morning Mindfulness Meditation The Perfect Way to Start Your Day....mp3',
   },
   {
     title:
-      'Guided Mindfulness Morning Meditation ~ Just 10 Minutes to Start Your Day',
-    url: '/videos/Guided Mindfulness Morning Meditation ~ Just 10 Minutes to Start Your Day.mp4',
-  },
-  {
-    title: 'Entering Into Higher Consciousness ~ A 10 Minute Guided Meditation',
-    url: '/videos/Entering Into Higher Consciousness ~ A 10 Minute Guided Meditation.mp4',
-  },
-  {
-    title: 'Today Will Be Productive ~ Morning Guided Meditation',
-    url: '/videos/Today Will Be Productive ~ Morning Guided Meditation.mp4',
-  },
-  {
-    title: 'Wonderful Morning Meditation 10 Minute Guided Visualization',
-    url: '/videos/Wonderful Morning Meditation 10 Minute Guided Visualization.mp4',
+      '15. Relaxation',
+    url: '/audios/Can You Feel The Difference After Using this 10 Minute Mindfulness Guided Meditation.mp3',
   },
   {
     title:
-      'Entering into a Perfect State of Being  using Mindfulness ~ 10 Minute Guided Meditation',
-    url: '/videos/Entering into a Perfect State of Being  using Mindfulness ~ 10 Minute Guided Meditation.mp4',
+      '16. Become Focused & Create the Perfect Day',
+    url: '/audios/Productive Morning Guided Meditation Become Focused and Create the Perfect Day.mp3',
   },
   {
     title:
-      'Leaving You Feeling Full of Gratitude ~ 10 Minute Morning Guided Meditation',
-    url: '/videos/Leaving You Feeling Full of Gratitude ~ 10 Minute Morning Guided Meditation.mp4',
+      '17. Morning Consciousness',
+    url: '/audios/Guided Mindfulness Morning Meditation Just 10 Minutes to Start Your Day.mp3',
   },
   {
-    title: 'A Guided Meditation for Getting Through Difficult Situations',
-    url: '/videos/A Guided Meditation for Getting Through Difficult Situations.mp4',
+    title: '18. Entering Into Higher Consciousness',
+    url: '/audios/Entering Into Higher Consciousness A 10 Minute Guided Meditation.mp3',
   },
   {
-    title: 'A Safe Place for Anxiety Relief ~ 10 Minute Guided Meditation',
-    url: '/videos/A Safe Place for Anxiety Relief ~ 10 Minute Guided Meditation.mp4',
+    title: '19. Make Today Productive',
+    url: '/audios/Today Will Be Productive ~ Morning Guided Meditation.mp3',
+  },
+  {
+    title: '20. Wonderful Morning Meditation',
+    url: '/audios/Wonderful Morning Meditation 10 Minute Guided Visualization.mp3',
   },
   {
     title:
-      'Let the Sounds Bring You Into the Present Moment ~ 10 Minute Mindfulness Guided Meditation',
-    url: '/videos/Let the Sounds Bring You Into the Present Moment ~ 10 Minute Mindfulness Guided Meditation.mp4',
+      '21. Entering into a Perfect State of Being',
+    url: '/audios/Entering into a Perfect State of Being using Mindfulness 10 Minute Guided Meditation.mp3',
   },
   {
     title:
-      'A Powerful 3-phase Guided Meditation ~ Mindfulness ~ Letting go ~ Gratitude',
-    url: '/videos/A Powerful 3-phase Guided Meditation ~ Mindfulness ~ Letting go ~ Gratitude.mp4',
+      '22. Leaving You Feeling Full of Gratitude',
+    url: '/audios/Leaving You Feeling Full of Gratitude 10 Minute Morning Guided Meditation.mp3',
   },
   {
-    title: 'Powerful Morning Affirmations & Mindful Meditation',
-    url: '/videos/Powerful Morning Affirmations & Mindful Meditation.mp4',
+    title: '23. Become Amazing at Meditation',
+    url: '/audios/Become-Amazing-at-Meditation-_-A-Guided-Meditation-for-Beginners.mp3',
+  },
+  {
+    title: '24. A Safe Place for Anxiety Relief',
+    url: '/audios/A-Safe-Place-for-Anxiety-Relief-_-10-Minute-Guided-Meditation.mp3',
+  },
+  {
+    title:
+      '25. Let the Sounds Bring You Into the Present Moment',
+    url: '/audios/Let the Sounds Bring You Into the Present Moment 10 Minute Mindfulness Guided Meditation.mp3',
+  },
+  {
+    title:
+      '26. 3-phase Guided Meditation',
+    url: '/audios/A-Powerful-3-phase-Guided-Meditation-_-Mindfulness-_-Letting-go-_-Gratitude.mp3',
+  },
+  {
+    title: '27. Powerful Morning Affirmations & Mindful Meditation',
+    url: '/audios/Powerful Morning Affirmations & Mindful Meditation.mp3',
   },
 ];
 
-const MaditationList = ({ setSelectedVideo }) => {
+const MaditationList = ({ setSelectedItem }) => {
   return (
     <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 p-4">
       {list.map((item) => (
         <div
           key={item.title}
           className="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 hover:border-gray-400"
-          onClick={() => setSelectedVideo(item)}
+          onClick={() => setSelectedItem(item)}
         >
           <div className="min-w-0">
             <div className="focus:outline-none">

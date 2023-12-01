@@ -9,8 +9,8 @@ const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Guided Meditation', href: '/guided-meditation', current: false },
   {
-    name: 'Personalized Mediation',
-    href: '/personalized-mediation',
+    name: 'Personalized Meditation',
+    href: '/personalized-meditation',
     current: false,
   },
 ];
@@ -21,10 +21,11 @@ function classNames(...classes) {
 
 const Navbar = ({ className }) => {
   const pathname = usePathname();
+  // bg-gray-800
   return (
     <Disclosure
       as="nav"
-      className={`bg-gray-800 ${className} left-0 top-0 right-0 z-10`}
+      className={`bg-red-400 bg-opacity-50 ${className} left-0 top-0 right-0 z-10`}
     >
       {({ open }) => (
         <>
@@ -46,7 +47,8 @@ const Navbar = ({ className }) => {
                 <div className="flex flex-shrink-0 items-center">
                   <img
                     className="h-8 w-auto"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    // src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    src="/logo.png"
                     alt="Your Company"
                   />
                 </div>

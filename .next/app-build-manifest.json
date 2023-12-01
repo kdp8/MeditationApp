@@ -1,25 +1,26 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
     "/guided-meditation/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/guided-meditation/page.js"
     ],
-    "/personalized-mediation/page": [
+    "/personalized-meditation/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/personalized-mediation/page.js"
+      "static/css/app/personalized-meditation/page.css",
+      "static/chunks/app/personalized-meditation/page.js"
     ]
   }
 }

@@ -6,10 +6,12 @@ const MyTime = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       const now = new Date();
-      const hours = now.getHours().toString().padStart(2, '0');
+      const hours24 = now.getHours();
+      const hours12 = hours24 % 12 || 12; // Convert to 12-hour format
+      const amPm = hours24 >= 12 ? 'PM' : 'AM'; // Determine AM/PM
       const minutes = now.getMinutes().toString().padStart(2, '0');
       const seconds = now.getSeconds().toString().padStart(2, '0');
-      const formattedTime = `${hours}:${minutes}:${seconds}`;
+      const formattedTime = `${hours12}:${minutes}:${seconds} ${amPm}`;
       setCurrentTime(formattedTime);
     }, 1000);
 
